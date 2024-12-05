@@ -1,12 +1,9 @@
 .copy {
-   position: absolute;
-   top: 1.5rem;
-   right: 1.5rem;
    font-size: 2rem;
    border-radius: 1rem;
    color: var(--text-secondary);
    background-color: var(--bg-content);
-   padding: .8rem;
+   padding: 0.8rem;
    display: flex;
    align-items: center;
    cursor: pointer;

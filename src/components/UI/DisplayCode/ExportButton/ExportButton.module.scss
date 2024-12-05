@@ -1,0 +1,16 @@
+.export__btn {
+   font-size: 2rem;
+   border-radius: 1rem;
+   color: var(--text-secondary);
+   background-color: var(--bg-content);
+   padding: 0.8rem;
+   display: flex;
+   align-items: center;
+   cursor: pointer;
+   transition: all 0.3s;
+
+   &:hover {
+      background-color: var(--bg-content-hover);
+      color: var(--text-primary);
+   }
+}
