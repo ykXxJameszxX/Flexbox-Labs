@@ -22,7 +22,7 @@
 </details>
 
 ## About
-Flexbox Labs is a visual tool that helps you create layouts using CSS Flexbox. It offers an intuitive interface that shows changes in real-time, making it easy to experiment and learn.
+Flexbox Labs is a visual tool that helps create layouts using CSS Flexbox. It offers an intuitive interface that shows changes in real-time, making it easy to experiment and learn.
 
 ### Features
 - **Live Preview:** Preview changes in real-time as you adjust parameters.
