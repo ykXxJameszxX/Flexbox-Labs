@@ -1,5 +1,5 @@
 import { useState, useCallback } from "react";
-const useSidebarActiveTab = () => {
+const useSidebarState = () => {
   const [switchState, setSwitchState] = useState(0);
   const [showPanel, setShowPanel] = useState(true);
 
@@ -24,4 +24,4 @@ const useSidebarActiveTab = () => {
   };
 };
 
-export default useSidebarActiveTab;
+export default useSidebarState;
